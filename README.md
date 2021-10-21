@@ -2,7 +2,7 @@
 ## BAHASA PEMROGRAMAN
 ### Viena Dwi Putri Maulina 312110469
 
-1. Buka web Github kemudian masuk ke akun
+1. Buka web Github.com kemudian masuk ke akun
 2. Cara membuat Repository
     klik New
     ![gambar 1](ss/ss1.png)
@@ -19,7 +19,7 @@
 	$ pwd
 	$ cd /d/vcs/  (tempat folder yang tadi dibuat)
 	$ git clone (link yang tadi dicopy, maka akan muncul repository yang tadi dibuat diGithub)
-    ![gambar 5](ss/ss5.png)
+    ![gambar 5](ss/satu.png)
 	kemudian buka file readme.
 	buat file baru dengan klik file > new file > kemudian save.
     ![gambar 6](ss/ss6.png)
